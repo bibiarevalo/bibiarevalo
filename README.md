@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**bibiarevalo/bibiarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Olá, me chamo Beatriz Arevalo  👋
+
+
+
+## 🚀 Sobre mim
+Sou Jovem aprendiz Back-End e faço técnico em Desenvolvimento de Sitemas. 
+Me interesso pela área da tecnologia e como ela pode ser explorada! 
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-arevalo-freitas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
+
+
+
+## Um +Plus sobre mim 
+👩‍💻 Trabalho atualmente na empresa Intelbras como jovem aprendiz Back-End
+
+🧠 Estou aprendendo programação Web e Mobile
+
+📫 Como entrar em contato comigo: biaarevalofreitas@gmail.com
+
+
+
+## 🛠 Habilidades
+HTML, CSS, JavaScript, React Native, C++, Python, MySQL
+
