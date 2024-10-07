@@ -27,5 +27,5 @@ Me interesso pela área da tecnologia e como ela pode ser explorada!
 
 
 ## 🛠 Habilidades
-HTML, CSS, JavaScript, React Native, C++, Python, MySQL
+HTML, CSS, JavaScript, React Native, React, Next, C++, Python, MySQL, GoLang.
 
